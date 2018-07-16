@@ -1,0 +1,5 @@
+git init: dossier___ repo
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nadhir101/gittuto.git
+git push -u origin master
